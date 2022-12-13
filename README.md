@@ -2,8 +2,7 @@
 - I am a final year UG student at IIT INDORE
 - I am a fast learner & always enthusiastic about learning new technologies and implementing them in real life projects as well
 - My technical domains of interests are Competitive Coding & Web Developement.
-- I am a chess lover and a good portrait sketch artist
-- I am exploring about Open Source Contributions & learning about Data Structures & Algorithms
+- Apart from being a programmer, I am a chess player and a good portrait sketch artist.
 
 # Technical Skills
 - C++
