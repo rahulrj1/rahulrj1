@@ -16,5 +16,7 @@
 - Top 9.4% in ICPC prelims 2021.
 
 Feel free to reach out me at rahuljas2050@gmail.com
+
 Thank you for visiting my profile
+
 Have a nice day :)
