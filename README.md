@@ -15,5 +15,5 @@ Outside the realm of technology, my interests include chess, sketching portraits
 
 Please feel free to reach out to me at rahuljas2050@gmail.com regarding any potential collaborations or opportunities. I look forward to connecting with professionals in the field and making meaningful contributions to the realm of technology.
 
-Thank you for visiting my profile
+Thank you for visiting my profile.
 Have a nice day :)
