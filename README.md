@@ -30,22 +30,6 @@ Outside of work:
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulrj1&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🧠 Competitive Programming
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/rahul-rj?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 🌍 Portfolio: https://rahulrj1.github.io/portfolio-revamped/
@@ -57,3 +41,4 @@ Outside of work:
 ⭐ _Always open to interesting backend problems, system design discussions, and high-impact ideas._
 
 ---
+
