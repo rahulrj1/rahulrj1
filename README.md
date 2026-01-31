@@ -16,7 +16,7 @@ Outside of work:
 - ♟️ I play chess competitively
 - ✏️ I sketch portraits in my free time
 - 📚 I read both fiction and non-fiction
-- 🎸 I am trying to be a decent guitar player
+- 🎸 I play guitar (beginner level)
 
 ---
 
@@ -41,4 +41,5 @@ Outside of work:
 ⭐ _Always open to interesting backend problems, system design discussions, and high-impact ideas._
 
 ---
+
 
